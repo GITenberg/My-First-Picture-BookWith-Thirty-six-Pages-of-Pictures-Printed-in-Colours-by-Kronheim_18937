@@ -1,0 +1,36 @@
+_repo: My-First-Picture-BookWith-Thirty-six-Pages-of-Pictures-Printed-in-Colours-by-Kronheim_18937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kronheim, Joseph Martin
+    birthdate: 1810
+    deathdate: 1896
+    gutenberg_agent_id: '8339'
+    url: http://www.gutenberg.org/2009/agents/8339
+description: ''
+gutenberg_bookshelf:
+- Art
+- Children's Picture Books
+gutenberg_issued: '2006-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Fairy tales'
+tableOfContents: My First Alphabet -- The Little Old Woman who Lived in a Shoe --
+  The Babes in the Wood -- Little Bo-Peep -- The History of Five Little Pigs -- The
+  History of Old Mother Goose and her Son Jack.
+title: 'My First Picture Book
+
+  With Thirty-six Pages of Pictures Printed in Colours by Kronheim'
+url: http://www.gutenberg.org/ebooks/18937
