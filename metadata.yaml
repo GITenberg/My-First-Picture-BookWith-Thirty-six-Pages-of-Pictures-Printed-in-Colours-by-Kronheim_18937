@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8339'
     url: http://www.gutenberg.org/2009/agents/8339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18937#My-First-Picture-BookWith-Thirty-six-Pages-of-Pictures-Printed-in-Colours-by-Kronheim
 gutenberg_bookshelf:
 - Art
 - Children's Picture Books
